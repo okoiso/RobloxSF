@@ -37,3 +37,6 @@ CustomTkinter
 Requests
 Pillow
 Threading
+
+# Support
+If you like the project and want updates, consider giving a star. i'll be glad :)
