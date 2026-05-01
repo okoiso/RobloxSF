@@ -1,7 +1,4 @@
-# RobloxSF
-The best server finder of roblox, free and open source, made in python and compilated to .exe
-
-# Roblox Server Finder
+# Roblox Server Finder - RobloxSF
 
 A desktop application built in Python to find Roblox servers with lower latency using real-time API data.
 
